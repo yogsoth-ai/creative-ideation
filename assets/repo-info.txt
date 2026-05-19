@@ -1,0 +1,3 @@
+creative-ideation
+
+Creative Generation Engine — transforms research hypotheses into diverse solution spaces via 10 parallel creativity campaigns spanning structural, analogical, destructive, and combinatorial methods.
