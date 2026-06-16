@@ -9,6 +9,8 @@
 
 *Divergent idea generation engine for autonomous research pipelines.*
 
+> 🧭 **Part of the [De-Anthropocentric Research Engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine).** This repository is one of nine composable research packages that make up DARE — the full autonomous research-orchestration system. DARE bundles this package together with the others into a single self-contained clone, unified under one orchestrator. To use these skills as intended — with the spec-driven orchestrator and cross-package routing — clone the [main repository](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) rather than this repo alone.
+
 **Creative Ideation is not a brainstorming helper.** It is a systematic creativity machine that transforms research hypotheses into diverse solution spaces via 10 parallel campaigns spanning structural, analogical, destructive, and combinatorial methods. It generates — it does not converge, validate, or implement.
 
 ---
@@ -108,4 +110,4 @@ The engine STOPS at idea generation. Convergence, validation, and implementation
 
 ---
 
-*Part of the [Yogsoth AI](https://github.com/yogsoth-ai) ecosystem. Built by [Pthahnix](https://github.com/Pthahnix).*
+*A component of the [De-Anthropocentric Research Engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine), part of the [Yogsoth AI](https://github.com/yogsoth-ai) ecosystem. Built by [Pthahnix](https://github.com/Pthahnix).*
